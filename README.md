@@ -1,4 +1,8 @@
 # 👨🏻‍💻About Me :
+
+21 y/o third year computer engineer candidate who learns every day, is open to
+innovation and has a research spirit.
+
 I am currently looking for a job or internship program as an iOS Developer.
 Currently learning UIKit & SwiftUI, You can review my projects and studies.
 Feel free to contact me from : kilicaslanomerkuf@gmail.com
