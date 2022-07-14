@@ -1,6 +1,6 @@
 # 👨🏻‍💻About Me :
 
-21 y/o third year computer engineer candidate who learns every day, is open to
+Third year computer engineer candidate who learns every day, is open to
 innovation and has a research spirit.
 
 I am currently looking for a job as an iOS Developer.
