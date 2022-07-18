@@ -3,7 +3,7 @@
 Third year computer engineer candidate who learns every day, is open to
 innovation and has a research spirit.
 
-I am currently looking for a job as an iOS Developer.
+I am currently working at "Anadolu Hayat Emeklilik" as an iOS Developer Intern.
 Currently learning UIKit & SwiftUI, You can review my projects and studies.
 Feel free to contact me from : kilicaslanomerkuf@gmail.com
 
