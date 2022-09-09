@@ -3,8 +3,8 @@
 Third year computer engineer candidate who learns every day, is open to
 innovation and has a research spirit.
 
-I am currently working at "Anadolu Hayat Emeklilik" as an part-time iOS Developer.
-Currently learning UIKit & SwiftUI (Using SwiftUI on my internship program), You can review my projects and studies.
+I am currently working at "Anadolu Hayat Emeklilik A.Ş" as a part-time iOS Developer.
+Currently using UIKit & SwiftUI (Using SwiftUI at my current job), You can review my projects and studies.
 Feel free to contact me from : kilicaslanomerkuf@gmail.com
 
 Linkedin : www.linkedin.com/in/omerkuf 
